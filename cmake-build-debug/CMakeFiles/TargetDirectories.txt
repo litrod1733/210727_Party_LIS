@@ -1,0 +1,3 @@
+/Users/isaac/FORE_HEAD/2021.07.27/210727_Party_LIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isaac/FORE_HEAD/2021.07.27/210727_Party_LIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaac/FORE_HEAD/2021.07.27/210727_Party_LIS/cmake-build-debug/CMakeFiles/210727_Party_LIS.dir
