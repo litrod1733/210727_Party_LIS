@@ -57,7 +57,7 @@ int main() {
   for(int i=0; i<M; i++) {
     int idx_i, idx_j, cost;
     scanf("%d%d%d", &idx_i, &idx_j, &cost);
-    matrix[idx_i][idx_j] = cost;
+    matrix[idx_i-1][idx_j-1] = cost;
   }
   for(int i=0; i<N; i++) {
     matrix[i][i] = 0;
